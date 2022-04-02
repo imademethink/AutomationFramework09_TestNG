@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ac329af-571b-48b7-a955-70b51b095884" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qf0WhvdsQOx98yRb7pbJ2orubG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Framework10_TestNG" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ecom.electronics" />
+      <recent name="com.ecom.gifts" />
+      <recent name="electronics" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TonyStark\Framework09_TestNG" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.MyElectronics5">
+    <configuration name="Programmatically" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ecom.gifts.Programmatically" />
+      <module name="Framework09_TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ecom.gifts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/TonyStark/Framework09_TestNG/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Framework09_TestNG" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyElectronics" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Framework09_TestNG" />
+      <option name="PACKAGE_NAME" value="com.ecom.electronics" />
+      <option name="MAIN_CLASS_NAME" value="com.ecom.electronics.MyElectronics" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyElectronics3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Framework09_TestNG" />
+      <option name="PACKAGE_NAME" value="com.ecom.electronics" />
+      <option name="MAIN_CLASS_NAME" value="com.ecom.electronics.MyElectronics3" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyElectronics5" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Framework09_TestNG" />
+      <option name="PACKAGE_NAME" value="com.ecom.gifts" />
+      <option name="MAIN_CLASS_NAME" value="com.ecom.gifts.MyElectronics5" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MyElectronics5" />
+        <item itemvalue="TestNG.D:/TonyStark/Framework09_TestNG/testng.xml" />
+        <item itemvalue="TestNG.MyElectronics3" />
+        <item itemvalue="TestNG.MyElectronics" />
+        <item itemvalue="Application.Programmatically" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ac329af-571b-48b7-a955-70b51b095884" name="Default Changelist" comment="" />
+      <created>1592659460060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592659460060</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="153" key="FileChooserDialogImpl" timestamp="1619923301109">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="463" y="153" key="FileChooserDialogImpl/0.30.1366.738@0.30.1366.738" timestamp="1619923301109" />
+    <state width="1345" height="426" key="GridCell.Tab.0.bottom" timestamp="1619926547737">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1345" height="426" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1619926547737" />
+    <state width="1345" height="426" key="GridCell.Tab.0.center" timestamp="1619926547737">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1345" height="426" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1619926547737" />
+    <state width="1345" height="426" key="GridCell.Tab.0.left" timestamp="1619926547737">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1345" height="426" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1619926547737" />
+    <state width="1345" height="426" key="GridCell.Tab.0.right" timestamp="1619926547737">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1345" height="426" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1619926547737" />
+    <state x="389" y="132" width="587" height="534" key="find.popup" timestamp="1619924025983">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="389" y="132" width="587" height="534" key="find.popup/0.30.1366.738@0.30.1366.738" timestamp="1619924025983" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Framework09_TestNG</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>testng</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
